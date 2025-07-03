@@ -37,7 +37,7 @@ En sistemas Linux (como Ubuntu), también necesitas instalar la siguiente librer
 
 ```bash
 sudo apt install libportaudio2
-
+```
 
 
 ### 📥 Instalación
@@ -46,5 +46,5 @@ Instala todos los paquetes de Python necesarios con:
 
 ```bash
 sudo apt install libportaudio2
-
+```
 
