@@ -84,7 +84,6 @@ validarNumeroCallmebot()
 estadoAnterior = None
 beep(1)  # Beep al inicio
 
-validarNumeroCallmebot()
 while True:
     token = obtenerToken(remisionCode)
     if not token:
