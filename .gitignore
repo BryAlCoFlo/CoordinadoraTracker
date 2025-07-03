@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.oga
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos temporales
+*.log
+.DS_Store
